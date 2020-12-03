@@ -12,5 +12,5 @@
     using namespace std;
   
     void main(){
-      printf("welcome to michael's diary");
+      cout<<"welcome to michael's diary";
     }
