@@ -13,4 +13,5 @@
   
     void main(){
       cout<<"welcome to michael's diary";
+      return;
     }
