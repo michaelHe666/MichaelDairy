@@ -7,10 +7,10 @@
   All diary is mainly organized by data, visitors may get data index by folder name.
 </p>
 
-  #include<studio.h>;
+    #include<studio.h>;
   
-  using namespace std;
+    using namespace std;
   
-  void main(){
-    printf("welcome to michael's diary");
-  }
+    void main(){
+      printf("welcome to michael's diary");
+    }
